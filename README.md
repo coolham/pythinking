@@ -1,2 +1,3 @@
-# pythinking
-Python training
+# 少儿Python编程培训
+
+
